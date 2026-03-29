@@ -1,39 +1,67 @@
-Hello! I'm **Nompilo M**, a passionate and dedicated software engineering student. Welcome to my GitHub profile, where I showcase my journey in the world of technology and software development. 
+# Hi, I'm Nompilo Mbense 👋
 
-## About Me
+### Aspiring Software Engineer | OCI Certified | Cloud & AI Specialist
+I am a **Bachelor of Computing (Software Engineering)** student at **Belgium Campus iTversity**, dedicated to building scalable, accessible, and intelligent software solutions. I specialize in C#/.NET and I am passionate about bridging the gap between cloud infrastructure and autonomous AI.
 
-- 🎓 **Education**: Currently pursuing a Bachelor's in Computing.
-- 💻 **Interests**: Software Development, Artificial Intelligence, and Web Development.
-- 🌱 **Learning**: Constantly expanding my knowledge in Python, Java, and C#.
-- 🌍 **Location**: Gauteng, South Africa.
+---
 
-## Projects
+### 📘 Professional Technical Stack
+* **Languages:** C#, Java, Python, SQL (T-SQL), HTML5/CSS3 (Grid/Flexbox)
+* **Cloud & Infrastructure:** Oracle Cloud Infrastructure (OCI Foundations Certified), VCN, IAM
+* **AI & Data:** Agentic Automation, Power BI (Real-time Dashboards), Computer Vision
+* **Engineering:** SOLID Principles, Event-Driven Architecture, WCAG Accessibility Standards
 
-### 1. **FitForge Wellness Centre**
-**Description**: This project is a console application for the FitForge Wellness Centre. It captures member details, checks wellness reward qualifications, and displays statistics.
-**Highlights**:
-- **Capture Member Details**: Collects information such as name, age, membership rank, join date, smoothies purchased, personal best treadmill distance, employment status, favorite smoothie flavor, and smoothies consumed since joining.
-- **Check Wellness Reward Qualification**: Evaluates members based on employment status, membership duration, smoothies consumed per month, favorite smoothie flavor, and either membership rank or personal best treadmill distance.
-- **Show FitForge Stats**: Displays total members, qualified members, not qualified members, and qualification rate.
+---
 
-## Skills
+### 🚀 Featured Engineering Projects
 
-- **Programming Languages**: Python, Java, C++
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Tools & Technologies**: Git, GitHub
-- **Certifications**: Higher Certification in Information Technology by Richfield Graduate Institute
+#### 🛡️ [AI-Driven Security Dashboard](LINK_TO_REPO)
+**Power BI | Computer Vision | OCI**
+A real-time surveillance system for Belgium Campus that utilizes object detection metadata to dictate dangerous animal presence. 
+* Integrated live AI data streams into interactive Power BI dashboards.
+* Engineered automated alerting logic for campus security response.
 
-## Get in Touch
+#### 🎓 [Student Management System]
+**C# | .NET | SQL Server**
+A modular desktop application built with an event-driven mindset.
+* Utilized **Interfaces and Delegates** to ensure low coupling.
+* Implemented a robust SQL backend for high-integrity academic data reporting.
 
-- 📧 **Email**: [nmbense01@gmail.com](mailto:nmbense01@gmail.com)
+#### ♿ [Accessible Mental Health Platform]
+**HTML5 | CSS Grid | WCAG 2.1**
+A standards-compliant educational resource designed specifically for visually impaired users.
+* 100% W3C Validation achieved.
+* Focused on the Simplicity and Visibility design principles for screen-reader compatibility.
 
-## Let's Collaborate!
+---
 
-I'm always open to exciting opportunities and collaborations. Whether it's a project, internship, or a full-time role, feel free to reach out. Let's create something amazing together!
-"""
+### 🤝 Leadership & Community
+* **Technical Mentor:** STARS Mentorship Programme (University of Pretoria)
+* **Global Collaborator:** International Cultural Exchange Participant
+
+---
+## 🌐 Connect With Me Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nompilo Mbense) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmbense01@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nompilo=M&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nompilo=M&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nompilo=M&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nompilo=M&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nompilo=M&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nompilo=M&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!---
-Nompilo-M/Nompilo-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
