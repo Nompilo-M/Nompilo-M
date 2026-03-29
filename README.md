@@ -1,4 +1,4 @@
-Hello! I'm **Nompilo M**, a passionate and dedicated second-year Bachelor's in Computing student. Welcome to my GitHub profile, where I showcase my journey in the world of technology and software development. 
+Hello! I'm **Nompilo M**, a passionate and dedicated software engineering student. Welcome to my GitHub profile, where I showcase my journey in the world of technology and software development. 
 
 ## About Me
 
